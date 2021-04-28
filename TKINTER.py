@@ -1,3 +1,5 @@
+#Editado por Geovani
+
 import tkinter as tk
 
 global clicked
